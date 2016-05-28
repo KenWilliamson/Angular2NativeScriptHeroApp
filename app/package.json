@@ -1,0 +1,28 @@
+{
+    "name": "tns-template-hello-world",
+    "main": "app.js",
+    "version": "2.0.0",
+    "author": {
+        "name": "Ken Williamson",
+        "email": "kenulborapublic@gmail.com"
+    },
+    "description": "Nativescript Hosted App",
+    "license": "Apache-2.0",
+    "keywords": [
+        "telerik", "mobile", "nativescript", "{N}", "tns", "appbuilder", "template"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/KenWilliamson/NativeScriptHostedApp.git"
+    },
+    "bugs": {
+        "url": "https://github.com/KenWilliamson/NativeScriptHostedApp"
+    },
+    "homepage": "https://github.com/KenWilliamson/NativeScriptHostedApp",
+    "android": {
+        "v8Flags": "--expose_gc"
+    },
+    "readme": "ERROR: No README data found!",
+    "_id": "tns-native-hosted-app",
+    "_from": "tns-native-hosted-app"
+}
